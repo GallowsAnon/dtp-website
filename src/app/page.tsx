@@ -17,7 +17,7 @@ export default function HomePage() {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 mb-8 justify-center items-center">
           <a
-            href="https://webchat.debauchedtea.party"
+            href="/webchat"
             className="btn-primary px-6 py-3 rounded font-semibold transition text-center"
           >
             Join the Chat
@@ -34,7 +34,7 @@ export default function HomePage() {
         </div>
         <div className="flex justify-center gap-4 mt-4">
           {/* X (Twitter) icon placeholder */}
-          <a href="https://x.com/YOUR_HANDLE" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
+          <a href="https://x.com/DebauchedTea" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
               <rect width="32" height="32" rx="16" fill="#1A1A1A" />
               <path d="M22.7 9.3L16.9 15.1L11.1 9.3H9.3V9.7L15.1 15.5L9.3 21.3V22.7H11.1L16.9 16.9L22.7 22.7H24.5V22.3L18.7 16.5L24.5 10.7V9.3H22.7Z" fill="white" />
