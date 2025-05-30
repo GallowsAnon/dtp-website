@@ -15,7 +15,7 @@ export default function HomePage() {
         <p className="mb-8 text-lg max-w-2xl text-center">
           At DTP, we believe in learning by doing and growing together. We encourage you to join us, contribute your ideas, submit projects, DJ on the radio, or simply share exciting tech news. Everyone is welcome, and every voice matters.
         </p>
-        <div className="flex flex-col sm:flex-row gap-4 mb-8">
+        <div className="flex flex-col sm:flex-row gap-4 mb-8 justify-center items-center">
           <a
             href="https://webchat.debauchedtea.party"
             className="btn-primary px-6 py-3 rounded font-semibold transition text-center"
